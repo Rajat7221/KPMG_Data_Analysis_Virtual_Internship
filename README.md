@@ -60,5 +60,7 @@ Specify the target customers from the new 1000 customer list and broader market 
 ---
 
 ## Dashboard Snippet:
-https://github.com/Rajat7221/KPMG_Data_Analysis_Virtual_Internship/blob/main/Virtual%20Internship/Email%20&%20Presentation/KPMG_DASHBOARD.JPG?raw=true
+
+![Dashboard](https://github.com/Rajat7221/KPMG_Data_Analysis_Virtual_Internship/blob/main/Virtual%20Internship/Email%20&%20Presentation/KPMG_DASHBOARD.JPG?raw=true)
+
 
