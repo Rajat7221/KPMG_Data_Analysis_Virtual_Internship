@@ -57,3 +57,9 @@ Develop a dashboard for the client meeting, presenting insights using visualizat
 ### Presentation Focus:
 Specify the target customers from the new 1000 customer list and broader market segment for Sprocket Central Pty Ltd's marketing team to reach out to.
 
+---
+
+## Dashboard Snippet:
+
+[(https://github.com/Rajat7221/KPMG_Data_Analysis_Virtual_Internship/blob/main/Virtual%20Internship/Email%20&%20Presentation/KPMG_DASHBOARD.JPG?raw=true
+]
